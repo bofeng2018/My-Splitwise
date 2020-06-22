@@ -1,2 +1,2 @@
 # My-Splitwise
-Self-composed Version of Splitwise
+Self-composed version of Splitwise. Ready for API implementation.
